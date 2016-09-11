@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>LocationReminder WatchKit App (Notification).xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>2</integer>
+		</dict>
+		<key>LocationReminder WatchKit App.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
+		<key>LocationReminder.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>0</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>F5E3228C1D8547BC0078275A</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>F5E322A01D8547BC0078275A</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>F5E322AB1D8547BC0078275A</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>F5E322B41D8547BC0078275A</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
